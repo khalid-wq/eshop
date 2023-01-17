@@ -30,7 +30,7 @@ const Cart = () => {
     toast.loading('Redirecting...');
 
     stripe.redirectToCheckout({ sessionId: data.id });
-    console.log(sessionId)
+    
   }
 
   return (
