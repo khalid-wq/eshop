@@ -71,6 +71,9 @@ span.text-red {
   color: gray;
   font-size: 18px;
 }
+.logo img {
+  width: 150px;
+}
 .cart-icon {
   font-size: 25px;
   color: gray;
